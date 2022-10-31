@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+Name=AliceSoft Images
+X-KDE-ServiceTypes=ThumbCreator
+MimeType=image/ajp;image/dcf;image/pms;image/qnt;
+CacheThumbnail=true
+X-KDE-Library=alicethumbnailer
